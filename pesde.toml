@@ -13,6 +13,9 @@ build_files = [
 [indices]
 default = "https://github.com/pesde-pkg/index"
 
+[wally_indices]
+default = "https://github.com/UpliftGames/wally-index"
+
 [dependencies]
 
 [scripts]
